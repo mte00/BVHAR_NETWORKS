@@ -8,11 +8,9 @@ for each of the 7 BVAR models.
 
 You need to run this for model \in {1,2,3,4,5,6,7}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%-------------------------------------------------------------------------%
-%                                   NOTE                                  %
-%-------------------------------------------------------------------------%
-% This only provides code to estimate network measures. This is because   %
-% the ETF data is propietary and therefore cannot be shared.              %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+## This only provides code to estimate network measures. This is because   
+## the ETF data is propietary and therefore cannot be shared.              
+
 
